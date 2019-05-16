@@ -4,3 +4,11 @@ conda install -c conda-forge nltk
 conda install -c conda-forge wordcloud
 conda install -c conda-forge seaborn 
 conda install -c conda-forge scikit-learn
+
+
+#pip install tweepy
+#pip install  matplotlib
+#pip install  nltk 
+#pip install  wordcloud
+#pip install  seaborn 
+#pip install  scikit-learn
